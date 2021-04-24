@@ -96,7 +96,7 @@ $ git clone https://github.com/dvargas42/podcastr.git
 # Install Mock data server
 $ yarn add json-server
 
-# Run the webapp 
+# Run the server
 $ yarn server
 
 ```
