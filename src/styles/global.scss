@@ -6,6 +6,8 @@
 
 :root {
   --white: #FFF;
+  --white-100:#FFF;
+
 
   --gray-50: #F7F8FA;
   --gray-100: #E6E8EB;
@@ -21,6 +23,26 @@
   --purple-500: #8257E5;
   --purple-800: #6F48C9;
 }
+
+:root[data-theme="theme-dark"]{
+  --white:#8a8a99;
+  --white-100:#FFF;
+
+  --gray-50: #44475a;
+  --gray-100: #afafaf;
+  --gray-150: #AFB2B1;
+  --gray-200: #DDDDDD;
+  --gray-500: #E6E8EB;
+  --gray-800: #F7F8FA;
+
+  --green-500: #04D361;
+  
+  --purple-300: #7053b3;
+  --purple-400: #6243aa; 
+  --purple-500: #4d328b;
+  --purple-800: #442c7c;
+}
+
 
 @media (width: 1080px) {
   html {
