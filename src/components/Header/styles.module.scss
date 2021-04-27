@@ -12,10 +12,28 @@
   p {
     margin-left: 2rem;
     padding: 0.25rem 0 0.25rem 2rem;
-    border-left: 1px solid var(--gray-100);
+    border-left: 1px solid var(--gray-150);
   }
-  span {
+
+  div {
     margin-left: auto;
-    text-transform: catalize;
+  }
+  
+  span {
+    margin-left: 1.5rem;
+    text-transform: capitalize;
+  }
+
+  button {
+    margin-left: auto;
+    background: none;
+    border: 0;
+    font-size: 0;
+
+    img {
+      width: 30px;
+      height: 30px;
+    }
   }
 }
+
