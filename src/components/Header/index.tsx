@@ -9,16 +9,16 @@ export function Header() {
 
   useEffect(() => {
     page = document.querySelector('html')
-    page.dataset.theme = `theme-dark`
+    page.dataset.theme = `theme-light`
   }, [])
 
+  
   function toggleDarkMode() {
     if (page.dataset.theme === 'theme-dark') {
       page.dataset.theme = `theme-light`;
     } else {
       page.dataset.theme = `theme-dark`;
     }
-
   }
 
   const currentDate = format(new Date(), 'EEEEEE, d MMMM', {
