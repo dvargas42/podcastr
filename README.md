@@ -50,13 +50,13 @@ This application was part of a development marathon (NLW05) where several develo
 Images of the application in operation.
 
 <p align="center">
-<img alt="ScreenShot01" src="https://res.cloudinary.com/dvargas42/image/upload/v1619227831/podcastr/Captura_de_tela_de_2021-04-23_22-14-34_uqmjrx.png" width="400px">
-<img alt="ScreenShot02" src="https://res.cloudinary.com/dvargas42/image/upload/v1619227832/podcastr/Captura_de_tela_de_2021-04-23_22-21-55_acc1hh.png" width="400px">
+<img alt="ScreenShot01" src="https://res.cloudinary.com/dvargas42/image/upload/v1619587512/podcastr/Captura_de_tela_de_2021-04-28_02-18-05_zkmlxz.png" width="400px">
+<img alt="ScreenShot02" src="https://res.cloudinary.com/dvargas42/image/upload/v1619587512/podcastr/Captura_de_tela_de_2021-04-28_02-20-28_mr3fqe.png" width="400px">
 </p>
 
 <p align="center">
-<img alt="ScreenShot03" src="https://res.cloudinary.com/dvargas42/image/upload/v1619227832/podcastr/Captura_de_tela_de_2021-04-23_22-18-55_asvfse.png" width="400px">
-<img alt="ScreenShot04" src="https://res.cloudinary.com/dvargas42/image/upload/v1619227819/podcastr/Captura_de_tela_de_2021-04-23_22-27-51_p1l2gz.png" width="400px">
+<img alt="ScreenShot03" src="https://res.cloudinary.com/dvargas42/image/upload/v1619587512/podcastr/Captura_de_tela_de_2021-04-28_02-19-14_x6xnld.png" width="400px">
+<img alt="ScreenShot04" src="https://res.cloudinary.com/dvargas42/image/upload/v1619587513/podcastr/Captura_de_tela_de_2021-04-28_02-20-50_r5es6y.png" width="400px">
 </p>
 
 ## 🚀 Technologies
