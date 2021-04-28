@@ -33,6 +33,7 @@
     img {
       width: 30px;
       height: 30px;
+      filter: brightness(0.6) invert(0.35) sepia(1) saturate(4) hue-rotate(90deg)
     }
   }
 }
